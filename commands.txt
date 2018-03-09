@@ -22,3 +22,6 @@ $ git merge logging
 $ git push
 $ git checkout -b allcommands
 $ notepad commands.txt
+$ git add commands.txt
+$ git commit -m "fsdffds"
+$git push
