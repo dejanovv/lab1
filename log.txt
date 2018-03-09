@@ -1,0 +1,13 @@
+commit 0c934925566421647aca00007c15f2d3a1df1f94 (HEAD -> logging, 
+origin/master, master)
+Author: unknown <vesna.dejanovska@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:57:25 2018 +0100
+
+    modify l1.txt
+
+commit d77cbfe76351bd0f3cb2858ab64821912e6053c0
+Author: unknown <vesna.dejanovska@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:51:51 2018 +0100
+
+    Initial commit
+
